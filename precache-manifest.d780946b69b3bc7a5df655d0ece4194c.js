@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "999318b1b8a786c629bf27b42fc5e058",
+    "revision": "cbdccde282ca94ed9080e258a89fcfe2",
     "url": "/MemeGen/index.html"
   },
   {
-    "revision": "20511a0a6f7cfc9a912e",
-    "url": "/MemeGen/static/css/main.2aace284.chunk.css"
+    "revision": "c4b84b6171aa13323751",
+    "url": "/MemeGen/static/css/main.b4b6c04e.chunk.css"
   },
   {
     "revision": "3b6319925c708acc83f2",
     "url": "/MemeGen/static/js/2.c1f7c5b5.chunk.js"
   },
   {
-    "revision": "20511a0a6f7cfc9a912e",
+    "revision": "c4b84b6171aa13323751",
     "url": "/MemeGen/static/js/main.0e1b7ace.chunk.js"
   },
   {
