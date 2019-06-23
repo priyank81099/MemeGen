@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MemeGen/static/css/main.3946a383.chunk.css",
+    "main.js": "/MemeGen/static/js/main.0e1b7ace.chunk.js",
+    "main.js.map": "/MemeGen/static/js/main.0e1b7ace.chunk.js.map",
+    "runtime~main.js": "/MemeGen/static/js/runtime~main.bde39dcf.js",
+    "runtime~main.js.map": "/MemeGen/static/js/runtime~main.bde39dcf.js.map",
+    "static/js/2.c1f7c5b5.chunk.js": "/MemeGen/static/js/2.c1f7c5b5.chunk.js",
+    "static/js/2.c1f7c5b5.chunk.js.map": "/MemeGen/static/js/2.c1f7c5b5.chunk.js.map",
+    "index.html": "/MemeGen/index.html",
+    "precache-manifest.cef340b102085ad9dadf0bd24004e290.js": "/MemeGen/precache-manifest.cef340b102085ad9dadf0bd24004e290.js",
+    "service-worker.js": "/MemeGen/service-worker.js",
+    "static/css/main.3946a383.chunk.css.map": "/MemeGen/static/css/main.3946a383.chunk.css.map",
+    "static/media/face.png": "/MemeGen/static/media/face.be324d5b.png"
+  }
+}
